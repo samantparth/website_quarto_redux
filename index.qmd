@@ -2,7 +2,7 @@
 title: "Welcome to my website"
 ---
 
-My name is Parth
+My name is Parth and I am a student at UofT.
 
 This is a Quarto website.
 
